@@ -1,4 +1,4 @@
-# Daily Finance Web Automation Project
+# Daily Finance Web Automation Project using PlayWright
 
 This project is a Playwright-based automation test suite for Daily Finance web application using the Page Object Model.
 
